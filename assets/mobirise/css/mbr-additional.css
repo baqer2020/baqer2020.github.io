@@ -1588,62 +1588,6 @@ section.lazy-placeholder:after {
 .cid-rHFRitcjXx H2 {
   text-align: center;
 }
-.cid-rIlLIBiHc2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-rIlLIBiHc2 .media-container-column {
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rIlLIBiHc2 .mbr-author-desc {
-  display: block;
-}
-.cid-rIlLIBiHc2 .mbr-testimonial {
-  flex-basis: auto;
-  margin-top: 5rem;
-  -webkit-flex-basis: auto;
-}
-.cid-rIlLIBiHc2 .mbr-testimonial .panel-item {
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
-}
-.cid-rIlLIBiHc2 .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2rem;
-}
-.cid-rIlLIBiHc2 .mbr-testimonial .card-block .testimonial-photo {
-  margin-top: -5rem;
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rIlLIBiHc2 .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rIlLIBiHc2 .mbr-testimonial .card-block p {
-  margin: 0;
-}
-.cid-rIlLIBiHc2 .mbr-testimonial .card-footer {
-  padding: 0 2rem 2rem 2rem;
-  border-top: 0;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 260px) {
-  .cid-rIlLIBiHc2 .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
 .cid-rHFRqBdhzV {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1705,4 +1649,47 @@ section.lazy-placeholder:after {
   .cid-rHFRqBdhzV .btn {
     font-size: 20px !important;
   }
+}
+.cid-rIroH81ioo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rIroH81ioo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rIroH81ioo .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rIroH81ioo .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rIroH81ioo .team-item .item-image img {
+  width: 100%;
+}
+.cid-rIroH81ioo .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rIroH81ioo .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rIroH81ioo .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rIroH81ioo .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rIroH81ioo .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rIroH81ioo H2 {
+  color: #45505b;
 }
