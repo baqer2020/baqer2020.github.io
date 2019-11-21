@@ -1382,6 +1382,65 @@ section.lazy-placeholder:after {
 .cid-rHFQO2ncil .mbr-gallery-item > div > span {
   text-align: center;
 }
+.cid-rIqN6a0BEn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rIqN6a0BEn h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rIqN6a0BEn p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rIqN6a0BEn .card-box {
+  padding-top: 2rem;
+}
+.cid-rIqN6a0BEn .card-wrapper {
+  height: 100%;
+}
+.cid-rIqN6a0BEn P {
+  text-align: center;
+  color: #7f1933;
+}
+.cid-rIqN6a0BEn .card-title {
+  color: #232323;
+  text-align: center;
+}
+.cid-rIqQRRcPXZ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-rIqQRRcPXZ p {
+  color: #767676;
+}
+.cid-rIqQRRcPXZ .item:focus,
+.cid-rIqQRRcPXZ span:focus {
+  outline: none;
+}
+.cid-rIqQRRcPXZ .item {
+  padding-bottom: 3rem;
+  cursor: pointer;
+}
+.cid-rIqQRRcPXZ .item-wrapper {
+  position: relative;
+}
+.cid-rIqQRRcPXZ .item-btn,
+.cid-rIqQRRcPXZ h4,
+.cid-rIqQRRcPXZ h5 {
+  margin: 0;
+}
+.cid-rIqQRRcPXZ .item-content {
+  padding-top: 2rem;
+}
+.cid-rIqQRRcPXZ .item-title {
+  text-align: center;
+  color: #0f7699;
+}
 .cid-rHGEYXN498 {
   background: #ffffff;
   padding-top: 60px;
@@ -1487,62 +1546,6 @@ section.lazy-placeholder:after {
 .cid-rHFRkpHtDe .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rHGARQfajd {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-rHGARQfajd .media-container-column {
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rHGARQfajd .mbr-author-desc {
-  display: block;
-}
-.cid-rHGARQfajd .mbr-testimonial {
-  flex-basis: auto;
-  margin-top: 5rem;
-  -webkit-flex-basis: auto;
-}
-.cid-rHGARQfajd .mbr-testimonial .panel-item {
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
-}
-.cid-rHGARQfajd .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2rem;
-}
-.cid-rHGARQfajd .mbr-testimonial .card-block .testimonial-photo {
-  margin-top: -5rem;
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rHGARQfajd .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rHGARQfajd .mbr-testimonial .card-block p {
-  margin: 0;
-}
-.cid-rHGARQfajd .mbr-testimonial .card-footer {
-  padding: 0 2rem 2rem 2rem;
-  border-top: 0;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 260px) {
-  .cid-rHGARQfajd .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
 .cid-rHFRitcjXx {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1584,6 +1587,62 @@ section.lazy-placeholder:after {
 }
 .cid-rHFRitcjXx H2 {
   text-align: center;
+}
+.cid-rIlLIBiHc2 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-rIlLIBiHc2 .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rIlLIBiHc2 .mbr-author-desc {
+  display: block;
+}
+.cid-rIlLIBiHc2 .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+}
+.cid-rIlLIBiHc2 .mbr-testimonial .panel-item {
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rIlLIBiHc2 .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-rIlLIBiHc2 .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rIlLIBiHc2 .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rIlLIBiHc2 .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-rIlLIBiHc2 .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-rIlLIBiHc2 .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
 .cid-rHFRqBdhzV {
   padding-top: 90px;
